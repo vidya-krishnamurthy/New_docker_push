@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="nadinc/docker"
+IMAGE_NAME="vidya2010/devops"
 TAG="latest"
 
 # Build Docker image
